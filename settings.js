@@ -42,7 +42,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 // Other
 global.botname = "FANDBOTZ" //namabot kalian
-global.ownername = "Fandy" //nama kalian
+global.ownername = "FANDYGG" //nama kalian
 global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://s.id/zeeoneofc" //bebas
@@ -57,7 +57,7 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '©FandyGG' + botname //sticker wm ubah
+global.packname = '©' + botname //sticker wm ubah
 global.author = 'FANDBOTZ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
